@@ -13,6 +13,9 @@ public class STRINGMARAVILLOSO{
         String M = "MARAVILLOSO";
         
  
+        System.out.println("El següent codi crea 4 triangles equil·làters amb la paraula 'Maravilloso'");
+        System.out.println("");
+        
         //Imprime los primeros dos triangulos de izq a derecha de la primera parte (parte superios)
         for (int i =0; i<M.length();i++){
             partSuperior(i, M);
