@@ -12,7 +12,7 @@ public class STRINGMARAVILLOSO{
     public static void main(String[] args){
         String M = "MARAVILLOSO";
         
- 
+        System.out.println("LA versió que tenim a github ha estat actualitzada i és més actual que la que tinc en local");
         System.out.println("El següent codi crea 4 triangles equil·làters amb la paraula 'Maravilloso'");
         System.out.println("");
         
